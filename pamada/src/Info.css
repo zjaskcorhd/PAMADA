@@ -1,0 +1,12 @@
+.info0{
+    width: 150px;
+    height: 30px;
+    margin: 10px;
+}
+
+.info1{
+    display: flex;
+    width: 355px;
+    height: 279px;
+    margin: 5px auto;
+}
